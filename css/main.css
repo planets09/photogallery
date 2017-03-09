@@ -20,7 +20,7 @@ body {
 
 .jumbotron p {
 	font-family:'Shadows Into Light', cursive;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 .navbar-inverse {
@@ -56,7 +56,7 @@ footer {
 
 footer p {
 	font-family:'Shadows Into Light', cursive;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 hr {
@@ -66,6 +66,7 @@ hr {
     border-top: 1px solid #2c3e50;
 	width: 50%;
 }
+
 
 .animated {
   -webkit-animation-duration: 4s;
