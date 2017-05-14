@@ -1,8 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Exo+2|Shadows+Into+Light');
-
-/*font-family: 'Exo 2', sans-serif;
-font-family: 'Shadows Into Light', cursive;*/
-
+/*@import url('https://fonts.googleapis.com/css?family=Exo+2|Shadows+Into+Light');*/
 
 body {
 	padding-top: 70px;
@@ -20,7 +16,7 @@ body {
 
 .jumbotron p {
 	font-family:'Shadows Into Light', cursive;
-	font-size: 30px;
+	font-size: 35px;
 }
 
 .navbar-inverse {
@@ -56,7 +52,7 @@ footer {
 
 footer p {
 	font-family:'Shadows Into Light', cursive;
-	font-size: 30px;
+	font-size: 35px;
 }
 
 hr {
@@ -69,8 +65,8 @@ hr {
 
 
 .animated {
-  -webkit-animation-duration: 4s;
-  animation-duration: 4s;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
