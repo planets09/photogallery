@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Exo+2|Shadows+Into+Light');
-
-/*font-family: 'Exo 2', sans-serif;
-font-family: 'Shadows Into Light', cursive;*/
-
-
 body {
+<<<<<<< HEAD
 	padding-top: 70px;
 	background-image: url("../images/sparkle-min.jpeg");
+=======
+	padding-top: 74px;
+	background-image: url('../images/sparkle-min.jpeg');
+>>>>>>> 2e8a037d0f76184e6f89f53d4cea2f336f242dab
 }
 
 .jumbotron {
